@@ -1,2 +1,2 @@
 # JS-15
-repository on GitHub.
+repository on GitHub
